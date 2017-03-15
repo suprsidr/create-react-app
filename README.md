@@ -29,6 +29,9 @@ The generated project comes with SASS, LESS, and CSS modules support by default,
 - ```REACT_APP_LESS=true``` - enable LESS support
 - ```REACT_APP_STYLUS=true``` - enable Stylus support
 - ```REACT_APP_CSS_MODULES``` - enable CSS modules
+- ```REACT_APP_SASS_MODULES``` - enable CSS modules via SASS
+- ```REACT_APP_LESS_MODULES``` - enable CSS modules via LESS
+- ```REACT_APP_STYLUS_MODULES``` - enable CSS modules via STYLUS
 
 #### Babel
 - ```REACT_APP_BABEL_STAGE_0=true``` - enable stage-0 Babel preset
