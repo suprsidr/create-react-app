@@ -16,7 +16,7 @@ The reason for this fork's existence is explained better in [this Medium article
 **the features are optional and can be turned on/off individually*
 
 ### ❔How to use it
-```create-react-app my-app --scripts-version custom-react-scripts```
+```create-react-app my-app --scripts-version custom-react-scripts-with-modules```
 
 Modify the ```.env``` file in the root of the generated project, and add any of the configuration options below 👇 to enable that feature.
 
